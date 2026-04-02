@@ -1,6 +1,5 @@
-# Time series prediction FFT based algorithm
-This is a working directry for a number of high-rate time-series predection challanges. 
-
+# Paper-2023-Hardware-implementation-nonstationary
+This repository represents what was the working directory for the paper by Puja Chowdhury, Austin R. J. Downey, Jason D. Bakos, Simon Laflamme, and Chao Hu. Hardware implementation of nonstationary structural dynamics forecasting. In Serife Tol, Mostafa A. Nouh, Shima Shahab, Jinkyu Yang, and Guoliang Huang, editors, Active and Passive Smart Structures and Integrated Systems XVII. SPIE, apr 2023. doi:10.1117/12.2658036
 
 <p align="center">
 <img src="organizational/frontpage_icons/time_series_icon.png" alt="drawing" width="400"/>
@@ -11,17 +10,22 @@ This is a working directry for a number of high-rate time-series predection chal
 
 
 
-## [Paper Time Series Forecasting for Structures Subjected to Nonstationary Inputs](paper_time_series_forecasting_nonstationary)
+## ⚠️ Important Note on Code Provenance
 
-* Code developed for the 2021 SMASIS paper
-* The key items have been copied to the SMASIS paper repo. 
-* Deprecated
+This repository was uploaded after the publication of the paper and reflects a working development directory used during the research process. This repository is shared to provide insight into the development process.
 
-## [Current Work](current_work)
-* Code being developed for the 2023 SPIE paper.
-* https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12483/1248316/Hardware-implementation-of-nonstationary-structural-dynamics-forecasting/10.1117/12.2658036.short?SSO=1
-
+As a result:
+- The code may not exactly reproduce the results presented in the paper  
+- Some scripts or components may be experimental, deprecated, or incomplete  
+- Additional files or artifacts may be present that were not used in the final publication  
 
 
+
+
+## Licensing and Citation
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License [cc-by-sa 4.0].
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
