@@ -1,0 +1,12 @@
+
+
+
+https://www.ni.com/documentation/en/labview/latest/node-ref/sort-1d-array/
+
+
+maybe this works in labVIEW NXG
+
+FPGA: All devices (only within an optimized FPGA VI)
+
+Note sure what this really means. 
+

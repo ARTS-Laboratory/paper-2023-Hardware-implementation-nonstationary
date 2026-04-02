@@ -1,0 +1,9 @@
+
+
+for loop version took 2.463 ms  (128)
+
+The while loop version takes 2.482 ms.  (128)
+
+the SCFL takes 0.002 ms (128)
+
+the SCFL takes 0.217 ms (8192)
